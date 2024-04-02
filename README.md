@@ -9,7 +9,7 @@ The output provides the user with the distribution of employees from each simula
 The user can use this tool to test the impact of changes in the funnel. For example, Funnel B below has a 5.5% lower conversion rate than Funnel A at every stage, but the same median number of employees and a higher probability of obtaining 5 employees due to its starting count of candidates.
 
 <p align="center">
-  <img src=![image](https://github.com/relock2/funnel_simulator/assets/16982081/e768038c-0c1f-48fe-91c5-8faf033f9072) />
+  <img src="https://github.com/relock2/funnel_simulator/assets/16982081/e768038c-0c1f-48fe-91c5-8faf033f9072" />
 </p>
 
 
